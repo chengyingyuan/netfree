@@ -26,3 +26,14 @@ cp netfree_config.sh.example netfree_config.sh
 
 Run related scripts depending on tunnel side.
 
+
+# References
+
+https://github.com/gregnietsky/simpletun
+https://backreference.org/2010/03/26/tuntap-interface-tutorial/
+https://backreference.org/2009/11/13/openssh-based-vpns/
+http://sites.inka.de/~W1011/devel/tcp-tcp.html
+http://blog.bofh.it/debian/id_379
+https://hamy.io/post/0002/openvpn-tcp-or-udp-tunneling/
+https://stackoverflow.com/questions/973439/how-to-set-the-dont-fragment-df-flag-on-a-socket
+https://linux.die.net/man/7/ip
