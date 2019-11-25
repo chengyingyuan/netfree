@@ -14,6 +14,7 @@ I have a raspberry pi with two wifi interfaces, one for wifi host spot(hostapd),
 For debian based distributions, such as raspbian or ubuntu, make ensure libssl-dev, gcc, make installed ahead.
 
 sudo apt-get update
+
 sudo apt-get install -y libssl-dev gcc make
 
 Change to project root directory, run
@@ -30,10 +31,17 @@ Run related scripts depending on tunnel side.
 # References
 
 https://github.com/gregnietsky/simpletun
+
 https://backreference.org/2010/03/26/tuntap-interface-tutorial/
+
 https://backreference.org/2009/11/13/openssh-based-vpns/
+
 http://sites.inka.de/~W1011/devel/tcp-tcp.html
+
 http://blog.bofh.it/debian/id_379
+
 https://hamy.io/post/0002/openvpn-tcp-or-udp-tunneling/
+
 https://stackoverflow.com/questions/973439/how-to-set-the-dont-fragment-df-flag-on-a-socket
+
 https://linux.die.net/man/7/ip
